@@ -1,0 +1,10 @@
+*.md
+*.txt
+raw/
+lab/
+images.json
+styles.json
+meta.json
+.publish/
+video/
+фото-с-карт/
